@@ -1,0 +1,18 @@
+{
+  "name": "LZ的博客",
+  "short_name": "LZ",
+  "display": "standalone",
+  "background_color": "#fff",
+  "start_url": "/learn-typescript-test/",
+  "scope": "/learn-typescript-test/",
+  "description": "欢迎来到LZ的博客，我会在这里分享一些问题和技巧",
+  "icons": [{
+    "src": "/icons/user.jpg",
+    "sizes": "52x52",
+    "type": "image/jpg"
+  },{
+     "src": "/icons/user.jpg",
+     "sizes": "270x270",
+     "type": "image/jpg"
+  }]
+}

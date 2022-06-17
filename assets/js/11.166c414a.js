@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{561:function(t,n,e){},607:function(t,n,e){"use strict";e(561)},634:function(t,n,e){"use strict";e.r(n);e(607);var s=e(8),i=Object(s.a)({},(function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"life-box"})}),[],!1,null,"5a903552",null);n.default=i.exports}}]);
